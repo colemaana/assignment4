@@ -1,0 +1,8 @@
+{
+    "dinnerMenu": 
+      [
+          {"name": "Steak","price": "20","calories": "600"},
+          {"name": "Burger","price": "45","calories": "324"},
+          {"name": "Burrito","price": "23","calories": "325"}
+    ]
+  }

@@ -1,0 +1,8 @@
+{
+    "breakfastMenu": 
+      [
+          {"name": "Eggs","price": "12","calories": "100"},
+          {"name": "Pancakes","price": "11","calories": "324"},
+          {"name": "Bacon","price": "5","calories": "225"}
+    ]
+  }
